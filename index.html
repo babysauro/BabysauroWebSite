@@ -5,18 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BabysauroMusic</title>
     <style>
-        /* Aggiungi stili CSS qui */
+        /* Stili CSS */
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #c97575; /* Colore di sfondo pastello */
         }
         header {
-            background-color: #7976b1;
+            background-color: #1b55a8;
             color: #333;
             padding: 20px;
-            text-align: center;
+            text-align: left;
+            color: #000; /* Testo nero */
         }
         main {
             padding: 20px;
@@ -46,6 +46,10 @@
         }
         .contacts {
             text-align: center;
+            margin-top: 20px; /* Aggiunto margine sopra la sezione contatti */
+        }
+        #about-me {
+            display: none; /* Nascondi l'elemento inizialmente */
         }
     </style>
 </head>
@@ -53,7 +57,7 @@
 
 <header>
     <h1>Welcome!</h1>
-    <p>Hi, I'm Babysauro, a composer who loves to create unique and engaging music!</p>
+    <p><a href="#about-me">About Me</a></p> <!-- Link "About Me" per navigare alla sezione "About Me" -->
 </header>
 
 <main>
@@ -62,19 +66,35 @@
         <li><a href="https://soundcloud.com/babysauro-681006921" target="_blank">SoundCloud</a></li>
         <li><a href="" target="_blank">YouTube</a></li>
     </ul>
-
-    <h2>Contacts</h2>
-    <div class="contacts">
-        <a href="https://www.linkedin.com/in/babysauro" target="_blank">LinkedIn</a> |
-        <a href="https://www.instagram.com/babysauro" target="_blank">Instagram</a> |
-        <a href="mailto:tuamail@gmail.com">Email</a>
-    </div>
 </main>
 
 <footer>
     <p>© 2024 Babysauro. All rights reserved.</p>
 </footer>
 
+<!-- Sezione contatti -->
+<div class="contacts", align=center>
+    <h2>Contacts</h2>
+    <a href="mailto:sesesa02@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+   </a> 
+   <a href="https://www.linkedin.com/in/serena-savarese-13a93024b">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
+   <a href="https://discord.com/channels/@me">
+     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+   </a>
+ </div>
+
+<!-- Sezione About Me -->
+<section id="about-me">
+    <h2>About Me</h2>
+    <p> Hello, I'm Babysauro. By day, I'm a diligent engineering student. But when the sun sets and free time emerges, I transform into a passionate musician.<br>
+        Music is my hidden passion, a way to express myself in ways that formulas and calculations can't capture. I'm a multi-instrumentalist with an insatiable thirst for knowledge and a burning desire to explore new sounds.<br>
+        Through music, I aim to convey emotions and experiences that surround me, turning each note into an opportunity to tell a story. Among my compositions, you'll find mainly instrumental pieces, where notes become my brushes and silence my canvas.<br>
+        Some of my creations have even been chosen to enrich the gaming experience of "Shattered", an adventure that I hope can transport you to new and fascinating worlds. If you'd like to delve deeper into my musical world, I invite you to visit the "Shattered" website, where you can listen to my creations and perhaps discover something new along the way.<br>
+        Thank you for being here, and I hope my music can add a splash of color to your life.</p>
+</section>
+
 </body>
 </html>
-
