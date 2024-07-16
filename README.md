@@ -7,9 +7,7 @@ Welcome to my personal portfolio website! This website serves as an online resum
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contact](#contact)
+- [Live Website](#live-website)
 
 ## Introduction ⚡️
 
@@ -27,10 +25,10 @@ This website is a showcase of my professional background and personal achievemen
 
 The website is built using the following technologies:
 
-- **HTML**: For structuring the content of the web pages.
-- **CSS**: For styling and layout of the web pages.
-- **JavaScript**: For interactive elements and form submission.
-- **Font Awesome**: For icons used throughout the site.
+- <img  alt="HTML" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/> **HTML**: For structuring the content of the web pages.
+- <img  alt="CSS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/> **CSS**: For styling and layout of the web pages.
+- <img  alt="JavaScript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/> **JavaScript**: For interactive elements and form submission.
+- <img  alt="VSCode" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/> **VS Code**: For writing and editing the code.
 
 ## Live Website 🤩
 
