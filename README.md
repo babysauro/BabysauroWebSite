@@ -31,3 +31,8 @@ The website is built using the following technologies:
 - **CSS**: For styling and layout of the web pages.
 - **JavaScript**: For interactive elements and form submission.
 - **Font Awesome**: For icons used throughout the site.
+
+## Live Website 🤩
+
+You can view the live website here: [My Portfolio Website](https://babysauro.github.io/BabysauroMusic/)
+
