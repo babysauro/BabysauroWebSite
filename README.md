@@ -1,4 +1,4 @@
-# My Personal Portfolio Website 🖥️
+# My Personal Website 🖥️
 
 Welcome to my personal portfolio website! This website serves as an online resume where you can learn more about my skills, experiences, and education.
 
