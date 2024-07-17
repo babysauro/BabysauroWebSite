@@ -32,5 +32,5 @@ The website is built using the following technologies:
 
 ## Live Website 🤩
 
-You can view the live website here: [My Portfolio Website](https://babysauro.github.io/BabysauroMusic/)
+You can view the live website here: [My Portfolio Website](https://babysauro.github.io/BabysauroWebSite/)
 
