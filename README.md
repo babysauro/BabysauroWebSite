@@ -13,7 +13,9 @@ Welcome to my personal portfolio website! This website serves as an online resum
 
 This website is a showcase of my professional background and personal achievements. It includes detailed information about my skills, work experiences, and educational history. Built with a clean and modern design, it aims to provide a comprehensive overview of my capabilities and projects.
 
-<img src="https://github.com/user-attachments/assets/8fedcf69-b24e-41c0-90a4-2a6a905989c7" width="500" height="300">
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/26bc1948-50b0-4e68-9971-af79714daebe" width="800" height="450">
+</p>
 
 ## Features 💼
 
