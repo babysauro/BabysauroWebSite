@@ -1,6 +1,9 @@
 # My Personal Website 🖥️
 
 Welcome to my personal portfolio website! This website serves as an online resume where you can learn more about my skills, experiences, and education.
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/122e13b8-47fb-4ce7-a386-b8ac9709a0d4" width="300" height="150">
+</p>
 
 ## Table of Contents 📋
 
