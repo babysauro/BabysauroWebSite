@@ -321,7 +321,7 @@ form btn2{
       display: none;  
     }
 
-    @media only screen and (max-width: 768px) {
+    @media only screen and (max-width: 300px) {
 
         #header{
             height: 50vh;
