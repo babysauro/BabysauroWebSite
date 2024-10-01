@@ -10,6 +10,7 @@ Welcome to my personal portfolio website! This website serves as an online resum
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Ongoing Development](#ongoing-development)
 - [Live Website](#live-website)
 
 ## Introduction ⚡️
@@ -36,6 +37,12 @@ The website is built using the following technologies:
 - <img  alt="CSS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/> **CSS**: For styling and layout of the web pages.
 - <img  alt="JavaScript" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/> **JavaScript**: For interactive elements and form submission.
 - <img  alt="VSCode" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/> **VS Code**: For writing and editing the code.
+
+## Ongoing Development 🔧
+
+Please note that this project is still in progress. The design is currently optimized for desktop platforms (PC/Mac), but I’m working on making the layout fully responsive to provide an optimal experience across all devices, including smartphones and tablets. 
+this website is continuously evolving and will be regularly updated with new content, projects, and improvements.
+Stay tuned for updates as I continue to refine and improve the user experience!
 
 ## Live Website 🤩
 
