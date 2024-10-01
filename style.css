@@ -321,18 +321,21 @@ form btn2{
       display: none;  
     }
 
-    @media only screen and (max-with: 480px) {
+    @media only screen and (max-width: 768px) {
 
         #header{
             height: 50vh;
             background-image: url(images/backgroundPhone.jpeg); 
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
         }
         .header-text{
             margin-top: 50%;
-            font-size: 14px;
+            font-size: 12px;
         }
         .header-text h1{
-            font-size: 20px;
+            font-size: 24px;
         }
         nav .fas{
             display: block; 
@@ -363,28 +366,63 @@ form btn2{
     
     
         .sub-title{
-            font-size: 50px;
+            font-size: 40px;
         }
         .about-col-1, .about-col-2{
             flex-basis: 100%;
         }
         .about-col-1{
-            margin-bottom: 30px;
+            margin-bottom: 20px;
         }
         .about-col-2{
-            font-size: 40px;
+            font-size: 16px;
         }
         .tab-links{
-            font-size: 16px;
-            margin-right: 20px;
+            font-size: 14px;
+            margin-right: 15px;
         }
     
+        .services-list div {
+            padding: 20px; /* Riduci il padding dei riquadri */
+            font-size: 12px; /* Riduci la dimensione del testo nei servizi */
+        }
+
+        .services-list div h2 {
+            font-size: 20px; /* Riduci la dimensione dei titoli dei servizi */
+        }
+    
+        .services-list div i {
+            font-size: 30px; /* Riduci la dimensione delle icone */
+        }
+
+        .work {
+            margin-top: 20px; /* Riduci lo spazio tra i lavori */
+        }
+    
+        .work img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px; /* Mantieni il bordo arrotondato ma riduci le dimensioni */
+        }
+
+        .btn {
+            padding: 10px 30px; /* Riduci il padding dei pulsanti */
+            font-size: 14px; /* Riduci la dimensione del testo nei pulsanti */
+        }
     
         .contact-left, .contact-right{
             flex-basis: 100%;
         }
+
+        .contact-left p i {
+            font-size: 20px; /* Riduci la dimensione delle icone di contatto */
+        }
     
+        .social-icons a {
+            font-size: 24px; /* Riduci le icone social */
+        }
+
         .copyright{
-            font-size: 16px;
+            font-size: 20px;
         }
       }
