@@ -41,7 +41,7 @@ The website is built using the following technologies:
 ## Ongoing Development 🔧
 
 Please note that this project is still in progress. The design is currently optimized for desktop platforms (PC/Mac), but I’m working on making the layout fully responsive to provide an optimal experience across all devices, including smartphones and tablets. 
-this website is continuously evolving and will be regularly updated with new content, projects, and improvements.
+This website is continuously evolving and will be regularly updated with new content, projects, and improvements.
 Stay tuned for updates as I continue to refine and improve the user experience!
 
 ## Live Website 🤩
