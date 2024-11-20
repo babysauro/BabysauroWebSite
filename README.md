@@ -10,7 +10,7 @@ Welcome to my personal portfolio website! This website serves as an online resum
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Ongoing Development](#ongoing-development)
+- [Ongoing Development](#ongoing-development) 
 - [Live Website](#live-website)
 
 ## Introduction ⚡️
